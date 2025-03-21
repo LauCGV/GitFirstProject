@@ -1,2 +1,2 @@
-#GitExample
+ # GitExample
 This is my first project
